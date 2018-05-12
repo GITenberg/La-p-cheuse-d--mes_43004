@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2220
     wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43004#La-p-cheuse-d--mes
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-06-21'
 gutenberg_type: Text
